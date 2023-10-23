@@ -1,2 +1,7 @@
-export const username = "test";
-export const password = "test123!";
+export const credential = {
+    "credential" : 
+        {
+            "username" : "test@gmail.com",
+            "password" : "test123!"
+        }
+};
